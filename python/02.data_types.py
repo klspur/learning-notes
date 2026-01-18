@@ -1,3 +1,7 @@
+### Data Type 資料型態
+
+---
+
 # Text 文字:	str
 # Numeric 數字:	int, float, complex
 # Sequence 順序:	list, tuple, range
