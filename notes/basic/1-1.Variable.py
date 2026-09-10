@@ -1,4 +1,4 @@
-# ---Variable 變數---
+# ---Variable 變數--- 
 print("Hello, World!")
 
 #宣告變數_1
